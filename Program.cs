@@ -56,11 +56,6 @@ namespace Prakticheski_izpit
                 max= green;
                 colorMax = "green";
             }
-
-            
-            
-
-            
             Console.WriteLine($"Red eggs: {red}");
             Console.WriteLine($"Orange eggs: {orange}");
             Console.WriteLine($"Blue eggs: {blue}");
